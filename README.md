@@ -2,7 +2,6 @@
 
 2022년 2학기 종합설계 과목 수강 중 `Core Javascript` 교재를 이용한 송오영 교수님 강의를 학습하고 작성한 예제를 모아 둔 Repository입니다.
 
----
 
 ## Git Style
 
@@ -12,7 +11,6 @@
 - `chapter1` 브랜치의 작성 내용을 예시로 사용합니다.
 
 
----
 
 ## Commit History
 ### chapter1 
