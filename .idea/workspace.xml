@@ -5,8 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07733ea3-3a5f-4e73-a9d9-324ee7f9bfb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-12.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-13.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-14.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-15.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-16.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-17.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-18.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-19.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-20.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-21.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-22.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-23.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-24.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-25.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-26.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-27.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-28.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-29.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-30.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-31.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/3-9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,36 +76,36 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.2-16.js">
-    <configuration name="2-12.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Chapter2/2-12.js" working-dir="$PROJECT_DIR$/Chapter2">
+  <component name="RunManager" selected="Node.js.3-26.js">
+    <configuration name="3-21.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Chapter3/3-21.js" working-dir="$PROJECT_DIR$/Chapter3">
       <method v="2" />
     </configuration>
-    <configuration name="2-13.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Chapter2/2-13.js" working-dir="$PROJECT_DIR$/Chapter2">
+    <configuration name="3-25.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Chapter3/3-25.js" working-dir="$PROJECT_DIR$/Chapter3">
       <method v="2" />
     </configuration>
-    <configuration name="2-14.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Chapter2/2-14.js" working-dir="$PROJECT_DIR$/Chapter2">
+    <configuration name="3-26.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Chapter3/3-26.js" working-dir="$PROJECT_DIR$/Chapter3">
       <method v="2" />
     </configuration>
-    <configuration name="2-15.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Chapter2/2-15.js" working-dir="$PROJECT_DIR$/Chapter2">
+    <configuration name="3-31.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Chapter3/3-31.js" working-dir="$PROJECT_DIR$/Chapter3">
       <method v="2" />
     </configuration>
-    <configuration name="2-16.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Chapter2/2-16.js" working-dir="$PROJECT_DIR$/Chapter2">
+    <configuration name="3-9.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Chapter3/3-9.js" working-dir="$PROJECT_DIR$/Chapter3">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.2-12.js" />
-      <item itemvalue="Node.js.2-13.js" />
-      <item itemvalue="Node.js.2-14.js" />
-      <item itemvalue="Node.js.2-15.js" />
-      <item itemvalue="Node.js.2-16.js" />
+      <item itemvalue="Node.js.3-21.js" />
+      <item itemvalue="Node.js.3-25.js" />
+      <item itemvalue="Node.js.3-26.js" />
+      <item itemvalue="Node.js.3-31.js" />
+      <item itemvalue="Node.js.3-9.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.2-16.js" />
-        <item itemvalue="Node.js.2-15.js" />
-        <item itemvalue="Node.js.2-14.js" />
-        <item itemvalue="Node.js.2-13.js" />
-        <item itemvalue="Node.js.2-12.js" />
+        <item itemvalue="Node.js.3-26.js" />
+        <item itemvalue="Node.js.3-25.js" />
+        <item itemvalue="Node.js.3-21.js" />
+        <item itemvalue="Node.js.3-9.js" />
+        <item itemvalue="Node.js.3-31.js" />
       </list>
     </recent_temporary>
   </component>
