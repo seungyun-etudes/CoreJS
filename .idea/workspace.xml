@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07733ea3-3a5f-4e73-a9d9-324ee7f9bfb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter5/5-1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/5-10.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/5-11.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/5-12.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/5-13.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/5-14.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/5-15.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/5-16.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/5-17.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/5-18.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/5-2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/5-3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/5-4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/5-6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/5-7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/5-8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/5-9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +91,7 @@
       <updated>1661865460812</updated>
       <workItem from="1661865461958" duration="3209000" />
       <workItem from="1661926648016" duration="7633000" />
-      <workItem from="1661997736310" duration="9015000" />
+      <workItem from="1661997736310" duration="9067000" />
     </task>
     <servers />
   </component>
